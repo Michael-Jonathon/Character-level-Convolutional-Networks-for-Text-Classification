@@ -1,4 +1,4 @@
-# Text Classification with CNN and RNN
+# Character-level Convolutional Networks for Text Classification
 
 ## 运行环境
 
